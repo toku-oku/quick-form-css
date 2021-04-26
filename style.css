@@ -27,7 +27,7 @@ body {
     color: var(--input-text-color);
 }
 
-.qfc-container ::-moz-placeholder {
+.qfc-container :-moz-placeholder {
     /* Firefox 19+ */
     color: var(--input-text-color);
 }
